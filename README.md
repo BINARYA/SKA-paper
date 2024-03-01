@@ -7,7 +7,7 @@
 
 ### Abstract
 
-**Introduzione:** 
+**Introduzione:**    
 **Problema/Esigenza:**   
 **La Proposta:**  
 **Confronto con Altre Soluzioni:**  
