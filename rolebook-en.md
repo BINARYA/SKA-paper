@@ -53,6 +53,17 @@ If no warriors are alive on the battlefield, no one can declare victory.
 
 ---
 
+### Glossary of Effects ###
+1. Interruption
+2. Recovery
+3. Discard
+4. Burn
+5. Block
+6. Distract
+7. Concentrate
+
+---
+
 ### Casual Team###
 Follows the same rules as casual, but the team with at least one living champion and none from the opposing teams will be considered the winner.
 
