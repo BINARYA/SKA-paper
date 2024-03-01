@@ -5,7 +5,7 @@
 **Autori:** Davide Nuccio & Friends (+ my son Federico)  
 **Data di Pubblicazione:** 2024-03-01  
 
-### Abstract o Sommario
+### Abstract
 
 **Introduzione:** 
 **Problema/Esigenza:**   
