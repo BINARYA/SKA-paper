@@ -1,27 +1,23 @@
-# SKA-paper
-Super kompetitive Arena - white paper
-
-### Copertina
+### SKA-paper
 
 **Titolo del White Paper:** Super Competitive Arena  
 **Sottotitolo:** "A Game as I Like"  
 **Autori:** Davide Nuccio & Friends (+ my son Federico)  
 **Data di Pubblicazione:** 2024-03-01  
 
----
-
 ### Abstract o Sommario
 
-**Introduzione:** Perché sviluppare un gioco?  
-**Problema/Esigenza:** Le limitazioni delle esperienze di gioco convenzionali.  
-**La Proposta:** Introduzione di Super Competitive Arena.  
-**Confronto con Altre Soluzioni:** Differenziazione da giochi esistenti.  
-**Implementazione:** Passi per lo sviluppo della versione beta e organizzazione del progetto.  
+**Introduzione:** 
+**Problema/Esigenza:**   
+**La Proposta:**  
+**Confronto con Altre Soluzioni:**  
+**Implementazione:** 
 
 ---
 
 ### Introduzione
 
+**ma perché sviluppare SKA ?**  
 Giocare riveste una significativa importanza per una serie di motivi profondamente radicati nella convinzione che le interazioni sociali dirette e i legami che ne derivano siano elementi essenziali per una vita appagante e felice. Al cuore di questa riflessione sta l'idea che riunirsi per giocare rappresenti una delle forme più genuine e gratificanti di espressione sociale, un'attività che non solo rafforza le relazioni interpersonali ma che funge anche da prezioso insegnamento per le giovani generazioni.
 
 Il gioco, inteso come momento di incontro e condivisione, emerge come un veicolo fondamentale per trasmettere valori di cooperazione, strategia e competizione leale. L'apprendimento ludico stimola la mente a elaborare tattiche e strategie, invitando i partecipanti a misurarsi intellettualmente con gli altri in un contesto di sfida stimolante. Questa dinamica si rivela non solo affascinante ma anche formativa, poiché insegna a gioire equamente nelle vittorie e ad accettare con grazia le sconfitte.
@@ -33,38 +29,8 @@ Particolarmente significativa è la lezione che deriva dall'esperienza della per
 1. La passione personale per la progettazione e uno spunto per studiare e applicare interessanti tecnologie.  
 2. Il desiderio di condividere questa esperienze con mio figlio, promuovendo la sua crescita formativa.
 
-
-
-
-
-
-
-
-
-
-
-
 **Perché un White Paper?**  
 Per condividere una visione unica sul gioco, evidenziando l'importanza della collaborazione e della condivisione di prospettive per arricchire il progetto.
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Problema o Esigenza
 
@@ -76,10 +42,7 @@ Un altro aspetto fondamentale era l'elemento sociale del gioco: il bonario sfott
 
 Questi ricordi e riflessioni hanno ispirato la creazione di Super Competitive Arena: un gioco che cerca di superare queste limitazioni, promuovendo un'esperienza di gioco veloce, basata sull'abilità e sulla strategia piuttosto che sul caso. L'obiettivo è quello di ricreare l'intensità e il divertimento delle sessioni di gioco della mia gioventù, eliminando gli ostacoli che ne limitavano il godimento, e allo stesso tempo valorizzando il contributo intellettuale e strategico di ogni giocatore.
 
----
-
 ### Soluzione Proposta
-
 Per affrontare efficacemente le sfide identificate, proponiamo lo sviluppo di un gioco innovativo, Super Competitive Arena, basato su due principi fondamentali che mirano a rivoluzionare l'esperienza ludica tradizionale:
 
 **1. Assenza di Aleatorietà:** Il primo pilastro del nostro gioco è l'eliminazione completa dell'elemento casuale. In Super Competitive Arena, ogni giocatore è pienamente responsabile delle proprie mosse e strategie. Questo principio garantisce che il successo o il fallimento di un giocatore dipendano esclusivamente dalle sue capacità decisionali e dalla sua abilità strategica. L'obiettivo è valorizzare l'intelligenza, la pianificazione e l'ingegnosità, creando un contesto in cui il merito e la competenza sono gli unici fattori che determinano l'esito della partita.
@@ -90,16 +53,10 @@ Super Competitive Arena è concepito per essere più di un semplice gioco: è un
 
 Inoltre vorrei cercare di mantenere un parallelo tra l'esperienza di gioco in prima persona rispetto a quella on-line per garantire uno spazio comunicativo che vada oltre le personali possibilità di mobilità.
 
----
-
 ### Confronto con Altre Soluzioni
-
 Mentre ci ispiriamo a classici come gli scacchi e giochi moderni come Xwing, Super Competitive Arena si distingue per l'assenza di aleatorietà e per il dinamismo dei turni, offrendo un'esperienza nuova e coinvolgente che incoraggia la strategia e la pianificazione.
 
----
-
 ### Implementazione
-
 Per portare Super Competitive Arena sul mercato, svilupperemo una versione beta che include:
 - Un regolamento
 - Una plancia di gioco
@@ -111,10 +68,4 @@ Miriamo a costruire un'organizzazione collaborativa che valorizzi il contributo 
 
 
 
-
-
-
-
-
-
-Super kompetitive Arena © 2024 by Davide Nuccio is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+**Super kompetitive Arena © 2024 by Davide Nuccio is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/**
