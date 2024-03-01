@@ -1,7 +1,7 @@
 ### SKA-paper
 
-**Titolo del White Paper:** Super Competitive Arena  
-**Sottotitolo:** "A Game as I Like"  
+**Super Competitive Arena**   
+**"A Game as I Like"**   
 **Autori:** Davide Nuccio & Friends (+ my son Federico)  
 **Data di Pubblicazione:** 2024-03-01  
 
