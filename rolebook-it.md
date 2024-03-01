@@ -59,6 +59,17 @@ Se Non rimangono guerrireri vivi sul campo di battaglia nessuno può dichiararsi
 
 ---
 
+### Glossario effetti ###
+1. Interruzione
+2. Recupero
+3. Scartare
+4. Bruciare
+5. Bloccare
+6. distrarre
+7. Concentrare
+
+
+
 ### Casual Team###
 Segue le stesse regole del casual, ma verrà considerata vincente la squadra con almeno un campione vivo e nessuno delle altre squadre avversarie. 
 
