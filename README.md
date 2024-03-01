@@ -30,7 +30,7 @@ Particolarmente significativa è la lezione che deriva dall'esperienza della per
 3. Il desiderio di condividere questa esperienze con mio figlio, promuovendo la sua crescita formativa.
 
 **Perché un White Paper?**  
-Per condividere una visione unica sul gioco, evidenziando l'importanza della collaborazione e della condivisione di prospettive per arricchire il progetto.
+Per condividere una proposta di gioco, evidenziando l'importanza della collaborazione e della condivisione di prospettive per arricchire il progetto.
 
 ### Problema o Esigenza
 
