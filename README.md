@@ -7,11 +7,11 @@
 
 ### Abstract
 
-**Introduzione:**    
-**Problema/Esigenza:**   
-**La Proposta:**  
-**Confronto con Altre Soluzioni:**  
-**Implementazione:** 
+**Introduzione**    
+**Problema/Esigenza**   
+**La Proposta**  
+**Confronto con Altre Soluzioni**  
+**Implementazione** 
 
 ---
 
