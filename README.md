@@ -2,7 +2,7 @@
 
 **Super Competitive Arena**   
 **"A Game as I Like"**   
-**Autori:** Davide Nuccio & Friends (+ my son Federico)  
+**Autori:** Davide Nuccio & Friends (+ mio figlio)  
 **Data di Pubblicazione:** 2024-03-01  
 
 ### Abstract
