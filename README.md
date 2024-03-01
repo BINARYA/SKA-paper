@@ -24,10 +24,10 @@ Il gioco, inteso come momento di incontro e condivisione, emerge come un veicolo
 
 Particolarmente significativa è la lezione che deriva dall'esperienza della perdita: imparare a gestire la frustrazione non solo è istruttivo ma serve da catalizzatore per il miglioramento personale. Questo processo di crescita attraverso il gioco prepara i bambini a diventare adulti più resilienti e dotati degli strumenti necessari per affrontare le inevitabili sfide della vita.
 
-**Motivazioni Personali:**  
-0. Mi piace giocare.  
-1. La passione personale per la progettazione e uno spunto per studiare e applicare interessanti tecnologie.  
-2. Il desiderio di condividere questa esperienze con mio figlio, promuovendo la sua crescita formativa.
+**Motivazioni Personali:**   
+1. Mi piace giocare.   
+2. La passione personale per la progettazione e uno spunto per studiare e applicare interessanti tecnologie.  
+3. Il desiderio di condividere questa esperienze con mio figlio, promuovendo la sua crescita formativa.
 
 **Perché un White Paper?**  
 Per condividere una visione unica sul gioco, evidenziando l'importanza della collaborazione e della condivisione di prospettive per arricchire il progetto.
