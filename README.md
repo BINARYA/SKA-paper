@@ -1,4 +1,4 @@
-### SKA-paper
+### SCA-paper
 
 **Super Competitive Arena**  
 **"A Game as I Like"**  
@@ -17,7 +17,7 @@
 
 ### Introduction
 
-**But why develop SKA?**  
+**But why develop SCA?**  
 Playing holds significant importance for a myriad of deeply rooted reasons, stemming from the belief that direct social interactions and the bonds they create are essential for a fulfilling and happy life. At the heart of this reflection is the idea that gathering to play represents one of the most genuine and rewarding forms of social expression, an activity that not only strengthens interpersonal relationships but also serves as valuable teaching for younger generations.
 
 The game, as a moment of meeting and sharing, emerges as a fundamental vehicle for conveying values of cooperation, strategy, and fair competition. Playful learning stimulates the mind to develop tactics and strategies, inviting participants to intellectually challenge each other in a stimulating contest environment. This dynamic proves not only fascinating but also educational, as it teaches to rejoice in victories and gracefully accept defeats.
@@ -66,4 +66,4 @@ To bring Super Competitive Arena to market, we will develop a beta version that 
 We aim to build a collaborative organization that values the contribution of each participant, with the goal of creating a game that is innovative, educational, and fun at the same time.
 
 
-**Super kompetitive Arena © 2024 by Davide Nuccio is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/**
+**Super Competitive Arena © 2024 by Davide Nuccio is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/**
